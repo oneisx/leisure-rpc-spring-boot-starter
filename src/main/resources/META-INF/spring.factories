@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=wang.leisure.rpc.config.AutoConfiguration
