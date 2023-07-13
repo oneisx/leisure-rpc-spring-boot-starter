@@ -1,5 +1,5 @@
 # Leisure RPC
-Leisure RPC是一款由[东方雨倾](https://leisure.wang/about-author)编码整理，基于Spring Boot Starter的小型RPC框架。编写这个RPC框架并不是为了重复造轮子，而是出于学习的目的，通过手写一款RPC框架来达到知识的学习和应用目的。
+Leisure RPC是基于Spring Boot Starter的小型RPC框架。编写这个RPC框架并不是为了重复造轮子，而是出于学习的目的，通过手写一款RPC框架来达到知识的学习和应用目的。
 
 ## 快速上手
 (1) 生成本地Maven依赖
